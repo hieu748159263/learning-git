@@ -1,3 +1,3 @@
 # learning-git
 
-### This is the repository to learn git from [Amigoscode](amigoscode.com/courses/git-github)👨‍💻
+### This is the repository to learn git from [Amigoscode](https://amigoscode.com/courses/git-github)👨‍💻
